@@ -1,0 +1,11 @@
+.gamesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 20%;
+  justify-content: center;
+}
+
+.gamesList h1 {
+  margin: 25px;
+  text-align: center;
+}
