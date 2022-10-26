@@ -1,0 +1,14 @@
+.header {
+  align-items: center;
+  border: 2px black solid;
+  display: flex;
+  padding-left: 10px;
+}
+
+.navContainer {
+  margin-left: 50px;
+}
+
+.navButton {
+  margin: 5px 15px;
+}
